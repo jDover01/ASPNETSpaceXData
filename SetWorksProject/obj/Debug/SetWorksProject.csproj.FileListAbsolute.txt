@@ -1,0 +1,50 @@
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\bin\SetWorksProject.dll.config
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\bin\SetWorksProject.dll
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\bin\SetWorksProject.pdb
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\bin\Telerik.Web.Spreadsheet.dll
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\bin\Telerik.Web.UI.dll
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\bin\Telerik.Web.UI.Skins.dll
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\bin\Telerik.Windows.Documents.Core.dll
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\bin\Telerik.Windows.Documents.Flow.dll
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\bin\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\bin\Telerik.Windows.Zip.dll
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\bin\Newtonsoft.Json.dll
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\bin\Telerik.Web.Spreadsheet.xml
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\bin\Telerik.Web.UI.xml
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\bin\Telerik.Windows.Documents.Core.xml
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\bin\Telerik.Windows.Documents.Flow.xml
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\bin\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\bin\Telerik.Windows.Zip.xml
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\obj\Debug\SetWorksProject.dll.licenses
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\obj\Debug\SetWorksProject.dll
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\obj\Debug\SetWorksProject.pdb
+C:\Users\Chad\Desktop\SetWorksSampleProject\SetWorksProject\SetWorksProject\obj\Debug\SetWorksProject.csprojResolveAssemblyReference.cache
+C:\Users\aikon\Downloads\BI\SetWorksProject\SetWorksProject\bin\SetWorksProject.dll.config
+C:\Users\aikon\Downloads\BI\SetWorksProject\SetWorksProject\bin\SetWorksProject.dll
+C:\Users\aikon\Downloads\BI\SetWorksProject\SetWorksProject\bin\SetWorksProject.pdb
+C:\Users\aikon\Downloads\BI\SetWorksProject\SetWorksProject\bin\Telerik.Web.Spreadsheet.dll
+C:\Users\aikon\Downloads\BI\SetWorksProject\SetWorksProject\bin\Telerik.Web.UI.dll
+C:\Users\aikon\Downloads\BI\SetWorksProject\SetWorksProject\bin\Telerik.Web.UI.Skins.dll
+C:\Users\aikon\Downloads\BI\SetWorksProject\SetWorksProject\bin\Newtonsoft.Json.dll
+C:\Users\aikon\Downloads\BI\SetWorksProject\SetWorksProject\bin\Telerik.Web.Spreadsheet.xml
+C:\Users\aikon\Downloads\BI\SetWorksProject\SetWorksProject\bin\Telerik.Web.UI.xml
+C:\Users\aikon\Downloads\BI\SetWorksProject\SetWorksProject\obj\Debug\SetWorksProject.csprojResolveAssemblyReference.cache
+C:\Users\aikon\Downloads\BI\SetWorksProject\SetWorksProject\obj\Debug\SetWorksProject.dll.licenses
+C:\Users\aikon\Downloads\BI\SetWorksProject\SetWorksProject\obj\Debug\SetWorksProject.dll
+C:\Users\aikon\Downloads\BI\SetWorksProject\SetWorksProject\obj\Debug\SetWorksProject.pdb
+\\encmsoly1024.eclient.wa.lcl\ofm\ofmhome$\JohnD105\Home Documents\Callahan & Associates\SetWorksProject\SetWorksProject\obj\Debug\SetWorksProject.csproj.AssemblyReference.cache
+\\encmsoly1024.eclient.wa.lcl\ofm\ofmhome$\JohnD105\Home Documents\Callahan & Associates\SetWorksProject\SetWorksProject\obj\Debug\SetWorksProject.dll.licenses
+\\encmsoly1024.eclient.wa.lcl\ofm\ofmhome$\JohnD105\Home Documents\Callahan & Associates\SetWorksProject\SetWorksProject\obj\Debug\SetWorksProject.csproj.CoreCompileInputs.cache
+\\encmsoly1024.eclient.wa.lcl\ofm\ofmhome$\JohnD105\Home Documents\Callahan & Associates\SetWorksProject\SetWorksProject\obj\Debug\SetWorksProject.dll
+\\encmsoly1024.eclient.wa.lcl\ofm\ofmhome$\JohnD105\Home Documents\Callahan & Associates\SetWorksProject\SetWorksProject\obj\Debug\SetWorksProject.pdb
+\\encmsoly1024.eclient.wa.lcl\ofm\ofmhome$\JohnD105\Home Documents\Callahan & Associates\SetWorksProject\SetWorksProject\bin\SetWorksProject.dll.config
+\\encmsoly1024.eclient.wa.lcl\ofm\ofmhome$\JohnD105\Home Documents\Callahan & Associates\SetWorksProject\SetWorksProject\bin\SetWorksProject.dll
+\\encmsoly1024.eclient.wa.lcl\ofm\ofmhome$\JohnD105\Home Documents\Callahan & Associates\SetWorksProject\SetWorksProject\bin\SetWorksProject.pdb
+\\encmsoly1024.eclient.wa.lcl\ofm\ofmhome$\JohnD105\Home Documents\Callahan & Associates\SetWorksProject\SetWorksProject\bin\Telerik.Web.Spreadsheet.dll
+\\encmsoly1024.eclient.wa.lcl\ofm\ofmhome$\JohnD105\Home Documents\Callahan & Associates\SetWorksProject\SetWorksProject\bin\Telerik.Web.UI.dll
+\\encmsoly1024.eclient.wa.lcl\ofm\ofmhome$\JohnD105\Home Documents\Callahan & Associates\SetWorksProject\SetWorksProject\bin\Telerik.Web.UI.Skins.dll
+\\encmsoly1024.eclient.wa.lcl\ofm\ofmhome$\JohnD105\Home Documents\Callahan & Associates\SetWorksProject\SetWorksProject\bin\Telerik.Web.Spreadsheet.xml
+\\encmsoly1024.eclient.wa.lcl\ofm\ofmhome$\JohnD105\Home Documents\Callahan & Associates\SetWorksProject\SetWorksProject\bin\Telerik.Web.UI.xml
+\\encmsoly1024.eclient.wa.lcl\ofm\ofmhome$\JohnD105\Home Documents\Callahan & Associates\SetWorksProject\SetWorksProject\obj\Debug\SetWorksProject.csproj.CopyComplete
