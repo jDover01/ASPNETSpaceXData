@@ -108,6 +108,7 @@
   <ItemGroup>
     <Content Include="web.config" />
     <None Include="packages.config" />
+    <None Include="Properties\PublishProfiles\SetWorksProject - Web Deploy.pubxml" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>
@@ -151,7 +152,7 @@
           <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
         </WebProjectProperties>
       </FlavorProperties>
-      <UserProperties UseJQuerySupport="True" UseAjaxifiedTemplates="True" />
+      <UserProperties UseAjaxifiedTemplates="True" UseJQuerySupport="True" />
     </VisualStudio>
   </ProjectExtensions>
 </Project>

@@ -1,0 +1,14 @@
+C:\Users\John.Dover@ofm.wa.gov\source\repos\SpaceXData\SpaceXCoreWebApplicaton\SetWorksProject\bin\SetWorksProject.dll.config
+C:\Users\John.Dover@ofm.wa.gov\source\repos\SpaceXData\SpaceXCoreWebApplicaton\SetWorksProject\bin\SetWorksProject.dll
+C:\Users\John.Dover@ofm.wa.gov\source\repos\SpaceXData\SpaceXCoreWebApplicaton\SetWorksProject\bin\SetWorksProject.pdb
+C:\Users\John.Dover@ofm.wa.gov\source\repos\SpaceXData\SpaceXCoreWebApplicaton\SetWorksProject\bin\Telerik.Web.Spreadsheet.dll
+C:\Users\John.Dover@ofm.wa.gov\source\repos\SpaceXData\SpaceXCoreWebApplicaton\SetWorksProject\bin\Telerik.Web.UI.dll
+C:\Users\John.Dover@ofm.wa.gov\source\repos\SpaceXData\SpaceXCoreWebApplicaton\SetWorksProject\bin\Telerik.Web.UI.Skins.dll
+C:\Users\John.Dover@ofm.wa.gov\source\repos\SpaceXData\SpaceXCoreWebApplicaton\SetWorksProject\bin\Telerik.Web.Spreadsheet.xml
+C:\Users\John.Dover@ofm.wa.gov\source\repos\SpaceXData\SpaceXCoreWebApplicaton\SetWorksProject\bin\Telerik.Web.UI.xml
+C:\Users\John.Dover@ofm.wa.gov\source\repos\SpaceXData\SpaceXCoreWebApplicaton\SetWorksProject\obj\Release\SetWorksProject.csproj.AssemblyReference.cache
+C:\Users\John.Dover@ofm.wa.gov\source\repos\SpaceXData\SpaceXCoreWebApplicaton\SetWorksProject\obj\Release\SetWorksProject.dll.licenses
+C:\Users\John.Dover@ofm.wa.gov\source\repos\SpaceXData\SpaceXCoreWebApplicaton\SetWorksProject\obj\Release\SetWorksProject.csproj.CoreCompileInputs.cache
+C:\Users\John.Dover@ofm.wa.gov\source\repos\SpaceXData\SpaceXCoreWebApplicaton\SetWorksProject\obj\Release\SetWorksProject.csproj.CopyComplete
+C:\Users\John.Dover@ofm.wa.gov\source\repos\SpaceXData\SpaceXCoreWebApplicaton\SetWorksProject\obj\Release\SetWorksProject.dll
+C:\Users\John.Dover@ofm.wa.gov\source\repos\SpaceXData\SpaceXCoreWebApplicaton\SetWorksProject\obj\Release\SetWorksProject.pdb
